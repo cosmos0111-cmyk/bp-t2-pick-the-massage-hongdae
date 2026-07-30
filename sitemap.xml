@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://pick.the-massage-hongdae.xyz/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pick.the-massage-hongdae.xyz/blog-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pick.the-massage-hongdae.xyz/blog-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pick.the-massage-hongdae.xyz/blog-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pick.the-massage-hongdae.xyz/</loc>
-    <lastmod>2026-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pick.the-massage-hongdae.xyz/about.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <loc>https://pick.the-massage-hongdae.xyz/posts/field_note-001-v1gt6h.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pick.the-massage-hongdae.xyz/blog-1.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <loc>https://pick.the-massage-hongdae.xyz/posts/guide-005-1gdkh3e.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pick.the-massage-hongdae.xyz/blog-2.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <loc>https://pick.the-massage-hongdae.xyz/posts/major_compare-002-1in7g0r.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pick.the-massage-hongdae.xyz/blog-3.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <loc>https://pick.the-massage-hongdae.xyz/posts/myth-004-prwn5w.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pick.the-massage-hongdae.xyz/posts/qa-003-rjcx6.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
